@@ -15,7 +15,4 @@ Create a function to print the names of the top three movies most similar to the
 The "User_Movie_Ratings_Graded.csv" data is a completely fabricated data set
 ny resemblance to entities past, present or future is merely a coincidence.
 
-Feature Description:
-The data set contains ratings given by users to movies on a scale of 1 to 5.
-Each row contains the ratings given to all the movies by a particular user.
-Each column contains the ratings given to a particular movie by all the users.
+
